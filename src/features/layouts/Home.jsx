@@ -59,7 +59,7 @@ const Home = () => {
             <span className="violetToPink text">Components</span>
           </h1>
           <p className="home-subHeader">
-            React easy is the platform for frontend developers, providing free and premium components for modern pva react apps.
+            React easy is the platform for frontend developers, providing free and premium components for modern pwa react apps.
           </p>
         </div>
         <div className="getStartedContainer">
