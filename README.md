@@ -60,7 +60,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/EasyJavascriptEs6/React-Easy
 
 # Go into the repository
 $ cd electron-markdownify
