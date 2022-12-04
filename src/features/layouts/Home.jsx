@@ -59,9 +59,7 @@ const Home = () => {
             <span className="violetToPink text">Components</span>
           </h1>
           <p className="home-subHeader">
-            Vercel is the platform for frontend developers, providing the speed
-            and reliability innovators need to create at the moment of
-            inspiration.
+            React easy is the platform for frontend developers, providing free and premium components for modern pva react apps.
           </p>
         </div>
         <div className="getStartedContainer">
